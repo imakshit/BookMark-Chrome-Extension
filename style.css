@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    background-image: url("https://i.pinimg.com/originals/c4/66/0f/c4660f4d3694beb5debd48e3e2aa4bde.jpg");
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 4px;
+}
+
+button {
+    background: #34495E;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #934641;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background: rgb(252, 2, 2);
+    color: #fdfdfdc4;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #2471A3;
+}
+
+
